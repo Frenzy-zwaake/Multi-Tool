@@ -6,7 +6,7 @@
   git clone https://github.com/Frenzy-zwaake/Multi-Tool.git
   ```
 
-- Now go to cloned directory and run `zphisher.sh` -
+- Now go to cloned directory and run `Multi-Tool.py` -
   ```
   $ cd Multi-Tool
   $ python3 Multi-Tool.py
